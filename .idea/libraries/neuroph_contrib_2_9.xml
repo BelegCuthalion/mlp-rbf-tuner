@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="neuroph-contrib-2.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/neuroph-contrib-2.9.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/neuroph-2.92.zip!/neuroph-2.92/doc/apidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/neuroph-2.92.zip!/neuroph-2.92/sources/neuroph-2.92/Adapters/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/lib/neuroph-2.92.zip!/neuroph-2.92/sources/neuroph-2.92/Contrib/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/lib/neuroph-2.92.zip!/neuroph-2.92/sources/neuroph-2.92/Contrib/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/lib/neuroph-2.92.zip!/neuroph-2.92/sources/neuroph-2.92/Core/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/lib/neuroph-2.92.zip!/neuroph-2.92/sources/neuroph-2.92/Core/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/lib/neuroph-2.92.zip!/neuroph-2.92/sources/neuroph-2.92/ImageRec/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/lib/neuroph-2.92.zip!/neuroph-2.92/sources/neuroph-2.92/OCR/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/lib/neuroph-2.92.zip!/neuroph-2.92/sources/neuroph-2.92/Samples/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/lib/neuroph-2.92.zip!/neuroph-2.92/sources/neuroph-2.92/Samples/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/lib/neuroph-2.92.zip!/neuroph-2.92/sources/neuroph-2.92/Contrib/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/lib/neuroph-2.92.zip!/neuroph-2.92/sources/neuroph-2.92/Contrib/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/lib/neuroph-2.92.zip!/neuroph-2.92/sources/neuroph-2.92/Adapters/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/lib/neuroph-2.92.zip!/neuroph-2.92/sources/neuroph-2.92/Contrib/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/lib/neuroph-2.92.zip!/neuroph-2.92/sources/neuroph-2.92/Contrib/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/lib/neuroph-2.92.zip!/neuroph-2.92/sources/neuroph-2.92/Core/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/lib/neuroph-2.92.zip!/neuroph-2.92/sources/neuroph-2.92/Core/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/lib/neuroph-2.92.zip!/neuroph-2.92/sources/neuroph-2.92/ImageRec/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/lib/neuroph-2.92.zip!/neuroph-2.92/sources/neuroph-2.92/OCR/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/lib/neuroph-2.92.zip!/neuroph-2.92/sources/neuroph-2.92/Samples/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/lib/neuroph-2.92.zip!/neuroph-2.92/sources/neuroph-2.92/Samples/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
